@@ -1,2 +1,3 @@
  This is my first fil
  This is my second edited line.e
+ This is my third line
